@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="1200" height="675" fill="#ffffff"/>
+<text x="40" y="48" font-size="28" font-weight="bold" fill="#1f2937" text-anchor="start">What the lead accepted, and what it cost the SDR</text>
+<text x="40" y="76" font-size="15" font-weight="normal" fill="#6b7280" text-anchor="start">Solid: the re-check reading (a dead end counts as accepted when the lead confirmed it). Dashed outline: the first scoring.</text>
+<rect x="40" y="100" width="540" height="440" rx="10" fill="#f3f4f6" stroke="#f3f4f6" stroke-width="1.5"/>
+<text x="60" y="132" font-size="19" font-weight="bold" fill="#1f2937" text-anchor="start">Rows the lead accepted</text>
+<rect x="95" y="247.8" width="110" height="197.2" rx="4" fill="#2a9d8f" stroke="#2a9d8f" stroke-width="1.5"/>
+<text x="150.0" y="237.8" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">68%</text>
+<text x="150" y="467" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">Agent alone</text>
+<text x="150" y="487" font-size="13" font-weight="normal" fill="#6b7280" text-anchor="middle">19 of 28</text>
+<rect x="245" y="213.0" width="110" height="232.0" rx="4" fill="#e9a23b" stroke="#e9a23b" stroke-width="1.5"/>
+<text x="300.0" y="203.0" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">80%</text>
+<text x="300" y="467" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">SDR alone</text>
+<text x="300" y="487" font-size="13" font-weight="normal" fill="#6b7280" text-anchor="middle">12 of 15</text>
+<rect x="395" y="178.2" width="110" height="266.8" rx="4" fill="#3b5bdb" stroke="#3b5bdb" stroke-width="1.5"/>
+<text x="450.0" y="168.2" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">92%</text>
+<rect x="520" y="244.9" width="60" height="200.1" rx="4" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-dasharray="7 5"/>
+<text x="550.0" y="234.9" font-size="15" font-weight="bold" fill="#9ca3af" text-anchor="middle">69%</text>
+<text x="550" y="467" font-size="12" font-weight="normal" fill="#9ca3af" text-anchor="middle">first</text>
+<text x="550" y="483" font-size="12" font-weight="normal" fill="#9ca3af" text-anchor="middle">scored</text>
+<text x="450" y="467" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">SDR with agent</text>
+<text x="450" y="487" font-size="13" font-weight="normal" fill="#6b7280" text-anchor="middle">12 of 13</text>
+<line x1="80" y1="445" x2="560" y2="445" stroke="#d1d5db" stroke-width="1.5"/>
+<text x="60" y="522" font-size="13" font-weight="normal" fill="#6b7280" text-anchor="start">Bar: the pair within one row in 15 of the SDR alone (6.7 points). It was 12.3 points above.</text>
+<rect x="620" y="100" width="540" height="440" rx="10" fill="#f3f4f6" stroke="#f3f4f6" stroke-width="1.5"/>
+<text x="640" y="132" font-size="19" font-weight="bold" fill="#1f2937" text-anchor="start">SDR minutes per accepted row</text>
+<rect x="680" y="202.94" width="110" height="242.06" rx="4" fill="#e9a23b" stroke="#e9a23b" stroke-width="1.5"/>
+<text x="735.0" y="192.94" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">24.7</text>
+<text x="735" y="467" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">SDR alone</text>
+<text x="735" y="487" font-size="13" font-weight="normal" fill="#6b7280" text-anchor="middle">272 min on 14 rows</text>
+<rect x="860" y="355.82" width="110" height="89.18" rx="4" fill="#3b5bdb" stroke="#3b5bdb" stroke-width="1.5"/>
+<text x="915.0" y="345.82" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">9.1</text>
+<rect x="985" y="326.42" width="60" height="118.58" rx="4" fill="none" stroke="#9ca3af" stroke-width="2.5" stroke-dasharray="7 5"/>
+<text x="1015.0" y="316.42" font-size="15" font-weight="bold" fill="#9ca3af" text-anchor="middle">12.1</text>
+<text x="1015" y="467" font-size="12" font-weight="normal" fill="#9ca3af" text-anchor="middle">first</text>
+<text x="1015" y="483" font-size="12" font-weight="normal" fill="#9ca3af" text-anchor="middle">scored</text>
+<text x="915" y="467" font-size="15" font-weight="bold" fill="#1f2937" text-anchor="middle">SDR with agent</text>
+<text x="915" y="487" font-size="13" font-weight="normal" fill="#6b7280" text-anchor="middle">109 min on 13 rows</text>
+<line x1="660" y1="445" x2="1140" y2="445" stroke="#d1d5db" stroke-width="1.5"/>
+<rect x="830" y="150" width="320" height="70" rx="10" fill="#fff" stroke="#3b5bdb" stroke-width="2"/>
+<text x="990" y="180" font-size="16" font-weight="bold" fill="#3b5bdb" text-anchor="middle">63% less SDR time per accepted row</text>
+<text x="990" y="204" font-size="13" font-weight="normal" fill="#6b7280" text-anchor="middle">51% as first scored; the bar: at least half</text>
+<text x="640" y="522" font-size="13" font-weight="normal" fill="#6b7280" text-anchor="start">Agent alone: 0 SDR minutes; its own run is 1.9 min median, unattended.</text>
+<text x="40" y="580" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">Read with care: 2 pair rows the SDR never marked complete were not scored. Counted in at any score, the saving is 39% to 48%, under the bar.</text>
+<text x="40" y="604" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">Still open: the pair&#x27;s 4 dead ends took a mean of 6.0 SDR minutes against a bar of 5, and the agent&#x27;s dead-end flag fired on 0 of 37 runs.</text>
+<text x="40" y="640" font-size="13" font-weight="normal" fill="#6b7280" text-anchor="start">Sign test, pair vs agent alone on the same 13 companies: 12 vs 8 accepted, p 0.22. One SDR, one lead, 30 companies: one row moves a 15-row rate by about 7 points.</text>
+</svg>

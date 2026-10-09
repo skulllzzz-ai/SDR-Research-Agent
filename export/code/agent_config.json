@@ -1,0 +1,46 @@
+{
+  "agent_version": "v2",
+  "version": "v2 (DECISIONS.md 14, Mayank 2026-10-07): v1 with four prompt changes (a phone without a named contact, location as the head office of the company or its group, the company's About, Contact and product pages, a directory profile when there is no website) and the validator's phone rule; model, effort, tools, timeout and Apollo settings as v1. Runs only the last 7 With-agent companies (release 3); v1 stays the agent-alone arm (freeze-v1.json)",
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "harness_model": "claude-haiku-4-5-20251001",
+  "timeout_minutes": 20,
+  "prompt_template": "prompt/research-agent-v2.md",
+  "repair_prompt": "prompt/repair-v1.md",
+  "prompt_mode": "append",
+  "competitor_block": "data-exports/list/competitor-block-2026-10-01.md",
+  "setting_sources": "",
+  "permission_mode": "dontAsk",
+  "builtin_tools": [
+    "WebSearch",
+    "WebFetch"
+  ],
+  "apollo_allowed": [],
+  "apollo_caps_per_company": {
+    "apollo_organizations_enrich": 0,
+    "apollo_people_match": 0,
+    "apollo_people_bulk_match": 0,
+    "apollo_organizations_bulk_enrich": 0,
+    "apollo_dynamic_field_enrichment_enrich": 0,
+    "apollo_csv_exports_export_view": 0
+  },
+  "deny_by_name_if_name_contains": [
+    "_create",
+    "_update",
+    "_bulk_",
+    "_send",
+    "_purchase",
+    "_approve",
+    "_add_",
+    "_remove_",
+    "_complete",
+    "_skip",
+    "_submit",
+    "_enrich",
+    "_match",
+    "_export",
+    "_install",
+    "feedback_log"
+  ],
+  "default_deny_test_tool": "apollo_users_api_profile"
+}

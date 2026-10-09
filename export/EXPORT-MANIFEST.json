@@ -1,0 +1,83 @@
+{
+  "built_at": "2026-10-09T05:03:45+05:30",
+  "master_log": "master-log-2026-10-09-2.xlsx",
+  "lead_returns": [
+    "lead-2026-10-09-in-2.xlsx",
+    "lead-2026-10-09-in.xlsx"
+  ],
+  "agent_runs": [
+    "batch-v1",
+    "batch-v2"
+  ],
+  "smoke": [
+    "smoke-v1web-2026-10-06",
+    "smoke-v2-2026-10-07"
+  ],
+  "facts": {
+    "companies": 30,
+    "smoke_companies": 2,
+    "v2_rows": 7,
+    "agent_row_lines": 1271,
+    "scored_agent_rows": 28,
+    "waiting": 2,
+    "rechecked": 6
+  },
+  "withheld": {
+    "Emails field withheld": 7,
+    "Phones field withheld": 26,
+    "phone in Turnover / revenue / market share source": 1,
+    "phone in Phones source": 3,
+    "phone in Primary city source": 1,
+    "email in Detailed research": 10,
+    "phone in Detailed research": 8,
+    "email in Phones source": 1,
+    "email in Emails source": 1
+  },
+  "redacted": [
+    {
+      "file": "BUILD-LOG.md",
+      "replaced": "SDR minutes per row 1, 1, 14, 32, 44, 44 and one unreadable",
+      "with": "SDR minutes per row withheld in the public copy (6 readable rows: median 23, range 1 to 44) and one unreadable"
+    },
+    {
+      "file": "BUILD-LOG.md",
+      "replaced": "(19% to 34% at any score; one took 61 minutes)",
+      "with": "(19% to 34% at any score)"
+    }
+  ],
+  "files": {
+    "agent-rows.csv": "dc6f7f79e19b5aa65c3f697826b0618f1bfd22f2ecb8925ccce5a4dfe1b5cf3b",
+    "BUILD-LOG.md": "3584cabb29b3a2cabd8026bb536c48a2faa29f95741ae1ebd12f0ac415940523",
+    "code/agent_config.json": "7ff47b6e3ea4ac4f11cad7fe501f2a95bfcc1d9d654eb3c31fa482fb4e69181e",
+    "code/batch_status.py": "a6f66cd55cc139b43a21dd0149b7e719dc3362a955a03b162198bed0e61cb3c7",
+    "code/build_lead_view.py": "b5a1df039ef28ca416ed35508eda26e0f4679c1b888f6452f2d201270be70ae9",
+    "code/build_master_log.py": "a7b4f70aac77fe00d22ff845a9b66890988ce2e397194acb9fb123694dd147e4",
+    "code/build_public_export.py": "9ff8e5e5b6449c699c3918c58169355aca69fd1b4495d74a42b5892560407dd2",
+    "code/build_sdr_release.py": "6855f9227bbfb091e6f04ae8be170ba06ace64b86c4ffc0ad1395c4d3aa4a495",
+    "code/build_slice_file.py": "fde8d11fab11730436b231c1628f8977197094cb208beb19e8dfd6b4f6a608df",
+    "code/check_draw.py": "7e70bf5010a4d81881bd56537ac8b175f4e3f2ff79fc94c85eb348b768efc955",
+    "code/check_master_log.py": "bd489a188e8aaad2ffc8d4d9a682b3cbf3cad26f322c21ea85c366e83663db0e",
+    "code/check_public_export.py": "23647e3a023788afe38dc9df06b6bf8fee04e7e16f37d7e9a9f9e3dd306b7aec",
+    "code/contract.py": "3f6cb4eb86460aa55f33c33e2eb39dd2f00996ae871e3d31642f15048d0872ab",
+    "code/credit_cap_hook.py": "f160e18f2aabe407514ee597b6067acdc06116ccde46fb3a981db54911890906",
+    "code/demo_one.py": "416665344107aaa8d2fd3e09cf6d6b233d81b23f038073440e48d11e7895c598",
+    "code/draw_arms.py": "afc6b02e3a3e2cb466978d36f2274c1823862e9c770b1c7b6fc0f58e4b271c31",
+    "code/excel_open_check.ps1": "004c1ecd22979ef659b5450a3fa4fb82153e83b10438f460c5589705508b09b4",
+    "code/freeze_v1.py": "5e215a81e4a23a670754340909f55c3ec3a9e068d4ab7b40677ade6e1347cccd",
+    "code/lead_return.py": "a68479458457d436ef1970455a24e06c04639c520a9110d2b75d01a5e1be4f72",
+    "code/prompt/repair-v1.md": "d7ed3ba7ab3717e9b17bd9783c9197c57f48f48819d0d50e0b1258f5bfd38b21",
+    "code/prompt/research-agent-v1.md": "768191323095b871390ab9fa9e2266e2bf0a4fbb93cbd1506ef573213e173332",
+    "code/prompt/research-agent-v2.md": "5abe0101dbc37693499183128f505e81669b420135ad7a72b406e2662855f6f6",
+    "code/README-build.md": "7ec6c49553431c7bc323451e23249c2a3083ed2ece4073bc8db31abd6fb6151b",
+    "code/results.py": "df99cc76d851dd4f1c22a48ff84be89949f52b6dbe64155341e8c1fd52b34d86",
+    "code/run_agent.py": "37cb815054fe33726827cc20498819f57e1260325ee0fc04712475f0f244d518",
+    "code/sdr_return.py": "149b227a48bdc60f302d115860b5f8171aa0360275f9b15eeaa7e9708dd55820",
+    "code/selftest_exchange.py": "5cf7bb686d884f17851dacd65f093cd02925141984ffc4dedef0cfcf22dc0a79",
+    "code/validate_row.py": "76e240a6d4f9bc759f174dd0596c1c7f1e4acb46cdd7ccdf81050b3f35bb55dc",
+    "code/xlsx_util.py": "96c61135fcdb04d699e3a330cc585394ec88f300a82f7a0de433038afec47fe1",
+    "companies.csv": "0bda99c8244949441967496cfcc4a3730deb48eb55563f79d6358eb9826b63fe",
+    "DECISIONS.md": "957b278f6242e0a223e13e934a66a4242196e82444c301c0ea4aa8b6fdfb08c5",
+    "README.md": "af3f6c8e913d1f03f37434dbf639d479bdb008c6c48f1532f03c8a4bcc2f9336",
+    "RESULTS.md": "dca09297c473c051a1f8737c0a90416a232c559ac18a4f42b93c07084cfd87f0"
+  }
+}

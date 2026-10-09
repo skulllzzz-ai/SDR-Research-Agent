@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="Arial, Helvetica, sans-serif">
+<rect x="0" y="0" width="1200" height="675" fill="#ffffff"/>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6b7280"/></marker></defs>
+<text x="40" y="48" font-size="28" font-weight="bold" fill="#1f2937" text-anchor="start">The trial design: three arms, one blind judge</text>
+<text x="40" y="76" font-size="15" font-weight="normal" fill="#6b7280" text-anchor="start">30 real companies, USA and the Gulf, one working week. Conditions set before any code; the system measured, never the person.</text>
+<rect x="40" y="120" width="230" height="150" rx="10" fill="#f3f4f6" stroke="#d1d5db" stroke-width="1.5"/>
+<text x="60" y="150" font-size="20" font-weight="bold" fill="#1f2937" text-anchor="start">30 companies</text>
+<text x="60" y="178" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">USA 17, Gulf 13</text>
+<text x="60" y="198" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">drawn by a recorded seed</text>
+<text x="60" y="218" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">into two groups of 15</text>
+<text x="60" y="238" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">plus a difficulty label</text>
+<rect x="330" y="110" width="470" height="126" rx="10" fill="#fff" stroke="#2a9d8f" stroke-width="2.5"/>
+<rect x="330" y="110" width="8" height="126" rx="4" fill="#2a9d8f" stroke="#2a9d8f" stroke-width="1.5"/>
+<text x="352" y="134" font-size="18" font-weight="bold" fill="#2a9d8f" text-anchor="start">Agent alone</text>
+<text x="784" y="134" font-size="14" font-weight="normal" fill="#6b7280" text-anchor="end">all 30 companies</text>
+<text x="352" y="158" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">One headless Claude Code run per company, 20-minute timeout.</text>
+<text x="352" y="178" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">Tools: web search and web fetch only, every other connector denied.</text>
+<text x="352" y="198" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">25 fields, each with a marker (sure, guessed, not found) and a source;</text>
+<text x="352" y="218" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">a verdict and a dead-end flag. A validator accepts or rejects the row.</text>
+<path d="M 270 195 C 300 195, 300 173.0, 328 173.0" fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="330" y="300" width="470" height="86" rx="10" fill="#fff" stroke="#e9a23b" stroke-width="2.5"/>
+<rect x="330" y="300" width="8" height="86" rx="4" fill="#e9a23b" stroke="#e9a23b" stroke-width="1.5"/>
+<text x="352" y="324" font-size="18" font-weight="bold" fill="#e9a23b" text-anchor="start">SDR alone</text>
+<text x="784" y="324" font-size="14" font-weight="normal" fill="#6b7280" text-anchor="end">15 companies</text>
+<text x="352" y="348" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">The SDR researches from scratch in his own Excel sheet,</text>
+<text x="352" y="368" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">stamping start and end per company and per step.</text>
+<path d="M 270 195 C 300 195, 300 343.0, 328 343.0" fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="330" y="430" width="470" height="106" rx="10" fill="#fff" stroke="#3b5bdb" stroke-width="2.5"/>
+<rect x="330" y="430" width="8" height="106" rx="4" fill="#3b5bdb" stroke="#3b5bdb" stroke-width="1.5"/>
+<text x="352" y="454" font-size="18" font-weight="bold" fill="#3b5bdb" text-anchor="start">SDR with agent</text>
+<text x="784" y="454" font-size="14" font-weight="normal" fill="#6b7280" text-anchor="end">15 companies</text>
+<text x="352" y="478" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">The SDR starts from the agent&#x27;s row in the same sheet:</text>
+<text x="352" y="498" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">markers as cell colours, sources as comments, the flag in a grey band.</text>
+<text x="352" y="518" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">He checks, completes, stamps; a confirmed dead end stops the row.</text>
+<path d="M 270 195 C 300 195, 300 483.0, 328 483.0" fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="860" y="120" width="300" height="300" rx="10" fill="#f3f4f6" stroke="#d1d5db" stroke-width="1.5"/>
+<text x="880" y="150" font-size="20" font-weight="bold" fill="#1f2937" text-anchor="start">SDR lead scores blind</text>
+<text x="880" y="180" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">Rows carry codes, not arms.</text>
+<text x="880" y="201" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">Whole companies only: each company&#x27;s</text>
+<text x="880" y="222" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">agent row and human row, kept apart.</text>
+<text x="880" y="243" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">Acceptable? Correctness. Completeness.</text>
+<text x="880" y="264" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">A comment per row, minutes stamped.</text>
+<text x="880" y="285" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start"></text>
+<text x="880" y="306" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">56 rows scored (28 companies on both</text>
+<text x="880" y="327" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">rows); 2 pair rows waiting on the SDR.</text>
+<text x="880" y="348" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start"></text>
+<text x="880" y="369" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">Dead ends judged again on the verdict</text>
+<text x="880" y="390" font-size="14" font-weight="normal" fill="#1f2937" text-anchor="start">alone: 3 of 6 confirmed.</text>
+<path d="M 802 173.0 C 830 173.0, 830 270, 858 270" fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 802 343.0 C 830 343.0, 830 270, 858 270" fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M 802 483.0 C 830 483.0, 830 270, 858 270" fill="none" stroke="#6b7280" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="40" y="556" width="1120" height="96" rx="10" fill="#fff" stroke="#d1d5db" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="60" y="584" font-size="16" font-weight="bold" fill="#1f2937" text-anchor="start">Five measures, set before any code</text>
+<text x="60" y="608" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">SDR minutes per acceptable row (speed)  ·  acceptable rate against the SDR alone (quality)  ·  pair against agent on the same companies (human value)</text>
+<text x="60" y="628" font-size="13" font-weight="normal" fill="#1f2937" text-anchor="start">SDR minutes on confirmed dead ends (triage)  ·  flag catches against false alarms (the flag).  Agent minutes are reported, never added to SDR minutes.</text>
+</svg>
