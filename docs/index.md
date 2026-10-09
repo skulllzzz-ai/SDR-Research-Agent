@@ -5,6 +5,8 @@ description: Here is what we measured on 30 real companies, three arms, one blin
 
 # I put an AI research agent next to our SDR for a week. Here is what we measured.
 
+*A 100xEngineers Cohort 7 capstone, Collaborative Intelligence brief, by Mayank Panchal. October 2026.*
+
 ## Summary
 
 Our pre-sales SDR (sales development rep: the person who finds and researches new companies
