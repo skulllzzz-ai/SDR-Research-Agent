@@ -99,7 +99,7 @@ About three weeks, starting mid-September.
   locking the agent. Two companies outside the 30 were the smoke tests, and a lock test
   proved the agent could reach no other tool.
 - On batch night our shared Apollo account had 30 credits left of 2,500, spent elsewhere, so
-  version 1 ran on the web alone: 30 of 30 rows valid in 67 minutes, zero credits. Contacts
+  the agent ran on the web alone: 30 of 30 rows valid in 67 minutes, zero credits. Contacts
   paid the price: an email on 5 of 28 agent rows against 10 of 15 SDR rows.
 - Week three was the trial. The SDR worked one file a day and sent it back; the next file
   was built on his return, and he finished all 30 companies a day early.
@@ -110,8 +110,9 @@ About three weeks, starting mid-September.
   columns. His checks of the first eight agent rows moved 32 cells; 84 percent stood. He wrote
   the group's head office where the agent had written the store's market, and he wanted the
   company's main phone number even when no contact was named. Those two, plus pages the
-  agent had read but not used and pages it had not opened, became version 2: four prompt
-  lines, run on the last 7 pair companies.
+  agent had read but not used and pages it had not opened, became four fixes to the agent's
+  instructions. The fixed agent ran on the last 7 pair companies; the first 8 had the agent
+  as first built.
 - The lead's feedback came through his sheet. He had not opened the first scoring file by
   the time the second was ready, so he got one consolidated file with the scoring steps, the
   comment rule and a do-not-edit line printed on it, and scored all 56 rows in two sittings,
@@ -129,8 +130,8 @@ About three weeks, starting mid-September.
 | Agent alone | 28 | 19 (68%) | 0 | 1.9 |
 | SDR alone | 15 | 12 (80%) | 24.7 | 0 |
 | Pair: the agent researches, the SDR checks and completes | 13 | 12 (92%) | 9.1 | 2.2 |
-| Pair, version 1 rows only | 7 | 7 (100%) | 10.0 | |
-| Pair, version 2 rows only | 6 | 5 (83%) | 7.8 | |
+| Pair, agent as first built (first 7 companies) | 7 | 7 (100%) | 10.0 | |
+| Pair, agent after the four fixes (last 6 companies) | 6 | 5 (83%) | 7.8 | |
 | Pair, as first scored, before the dead-end re-check | 13 | 9 (69%) | 12.1 | |
 
 Why the row counts differ: the agent researched all 30 companies, the SDR did 15 alone and
