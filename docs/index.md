@@ -224,6 +224,7 @@ Happy to compare notes.
 
 - Repository (code, prompts, logs, rows, results): https://github.com/skulllzzz-ai/SDR-Research-Agent
 - Live page: https://skulllzzz-ai.github.io/SDR-Research-Agent/
-- Demo video: linked from the repository README.
+- Demo video (16 minutes): https://drive.google.com/drive/folders/1W0GQ7Znkf3ddrhGEgnvXLl-0JqZkBxPD
+- This post on Medium: https://medium.com/@growthmayank/i-put-an-ai-research-agent-next-to-our-sdr-for-a-week-here-is-what-we-measured-7a415dc939c0
 
 @100xEngineers #0to100xEngineer

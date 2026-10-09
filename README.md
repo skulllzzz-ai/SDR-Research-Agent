@@ -6,9 +6,10 @@ An AI agent does the first research pass on a prospect company for a pre-sales S
 
 | Deliverable | Where |
 |---|---|
-| Case study (the live page) | https://skulllzzz-ai.github.io/SDR-Research-Agent/ (source: [docs/index.md](docs/index.md)) |
+| Case study (the public post) | https://medium.com/@growthmayank/i-put-an-ai-research-agent-next-to-our-sdr-for-a-week-here-is-what-we-measured-7a415dc939c0 |
+| Live page (the same case study) | https://skulllzzz-ai.github.io/SDR-Research-Agent/ (source: [docs/index.md](docs/index.md)) |
 | Code, prompts, logs, rows, results | [export/](export/): the build's public export, verbatim; start with [export/README.md](export/README.md) |
-| Demo video | Recorded on 2026-10-09; the link lands here |
+| Demo video (16 minutes) | https://drive.google.com/drive/folders/1W0GQ7Znkf3ddrhGEgnvXLl-0JqZkBxPD |
 
 ## Headline results
 
