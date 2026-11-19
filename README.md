@@ -1,6 +1,6 @@
 # SDR research agent: a measured three-arm trial
 
-An AI agent does the first research pass on a prospect company for a pre-sales SDR in B2B diamonds, and the SDR checks and completes it. Thirty real companies in the USA and the Gulf, three arms (SDR alone, agent alone, SDR with agent), one blind judge (the SDR lead), one working week. Built for the 100xEngineers Cohort 7 capstone, "Collaborative Intelligence" brief, by Mayank Panchal.
+An AI agent does the first research pass on a prospect company for a pre-sales SDR in B2B diamonds, and the SDR checks and completes it. Thirty real companies in the USA and the Gulf, three arms (SDR alone, agent alone, SDR with agent), one blind judge (the SDR lead), one working week. Built for Diamond Industry Lead Research by Mayank Panchal.
 
 ## The deliverables
 
